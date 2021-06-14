@@ -32,7 +32,7 @@ active, just without the hyphens.
 | log | `log 2 10` | Log of any base applied to the *second* number encountered. The first number is the base of the log. |
 | sin, cos, tan | `sin pi` | Self explanatory |
 | arcsin, arccos, arctan | `pi * 2 arctan` | Self explanatory |
-| \|\| | `-2 ||` | Absolute value, however make sure not to surrond a value with the absolute value sign. It currently only works on one value at a time. |
+| \|\| | `-2 \|\|` | Absolute value, however make sure not to surrond a value with the absolute value sign. It currently only works on one value at a time. |
 | rt, root | `root 4 2` | The root (second number) applied to the first number. |
 | sqrt | `sqrt 4` | Square root function for easier usability. |
 | sqr | `sqr 2` | Square function for easier usability.
