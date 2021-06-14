@@ -37,8 +37,8 @@ active, just without the hyphens.
 | sqrt | `sqrt 4` | Square root function for easier usability. |
 | sqr | `sqr 2` | Square function for easier usability.
 
-**How Flexulator Reads Inputs** 
-Flexulator is somewhat strange in the way that it works, but that's what keeps it flexibile. 
+**How Flexulator Reads Inputs**  
+Flexulator is somewhat strange in the way that it works, but that's what keeps it flexible. 
 This information is accurate to Version 0.1.1.  
 
 `+ - 5 4 * * 2 10 / 9 0.5 ln` Is a lengthy example, but a lengthy example is the best way to go through it.
